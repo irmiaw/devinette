@@ -17,9 +17,9 @@ var continuerJeu = true; // On utilise une variable booléenne pour ne pas faire
 
 // Le jeu continue tant que on n'ait pas perdu (valeur maxEssais atteinte) ou qu'on n'ait pas trouvé la solution
 while (continuerJeu) {
+	nombre = Number(prompt("Entrez un nombre :")); // Le joueur entre un nombre
 	/*TODO:
-	demander au joueur d'entrer un nombre
-	tester si ce nombre est plus petit ou plus grand
+	tester si ce nombre est plus petit ou plus grand que la solution
 	tester si le joueur a gagné ou perdu
 	*/
 }
