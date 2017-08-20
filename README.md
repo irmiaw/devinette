@@ -4,6 +4,10 @@ Petit jeu sympa en javascript. Devinez le nombre mystère et gagnez **0 000 000,
 ## Objectif
 L'objectif de ce projet est avant tout de s'entrainer avec git et github en réalisant [l'activité 1 du cours sur javascipt d'OC](http://exercices.openclassrooms.com/assessment/instructions/282299)
 
+## Tester
+[Cliques ici pour tester le jeu](https://htmlpreview.github.io/?https://github.com/irmiaw/devinette/blob/master/html/devinette.html)
+
+Ouvrez la console javascript pour voir les messages (pour l'instant aucun)
 
 ## Contribuer
 ### Toute contribution est bienvenue !
